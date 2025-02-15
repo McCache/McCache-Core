@@ -1,5 +1,5 @@
 # McCache Core
-This is the base McCache distributed hash table to be wrapper by other languages
+This is the base McCache distributed hash table to be wrapped by other languages
 
 ## Introduction
 This repo at this point in time is to collect ideas for the next version of "McCache for Python".  If we are to port `McCache` to other languages, we should **not** be re-writing `McCache` in the language we are going to port to.  We need a common core where the logic is consistent and tested.
